@@ -1,8 +1,8 @@
-waht{
+{
     "pages": {
         "home": "Home",
         "about": "About us",
-        "contact": "Contcat",
+        "contact": "Contact",
         "product": "Products"
     },
     "currency": {
