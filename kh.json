@@ -1,9 +1,9 @@
 {
     "pages": {
-        "home": "pages",
-        "about": "About us",
-        "contact": "Contcat",
-        "product": "Products"
+        "home": "ទំព័រដើម",
+        "about": "អំពី​ពួក​យើង",
+        "contact": "ទំនាក់ទំនង",
+        "product": "ផលិតផល"
     },
     "currency": {
         "kh": "Riel",
